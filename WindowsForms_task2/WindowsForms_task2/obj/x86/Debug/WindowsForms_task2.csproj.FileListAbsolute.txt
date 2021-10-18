@@ -1,0 +1,7 @@
+c:\users\asus\documents\visual studio 2010\Projects\WindowsForms_task2\WindowsForms_task2\obj\x86\Debug\WindowsForms_task2.Form1.resources
+c:\users\asus\documents\visual studio 2010\Projects\WindowsForms_task2\WindowsForms_task2\obj\x86\Debug\WindowsForms_task2.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2010\Projects\WindowsForms_task2\WindowsForms_task2\obj\x86\Debug\WindowsForms_task2.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2010\Projects\WindowsForms_task2\WindowsForms_task2\bin\Debug\WindowsForms_task2.exe
+c:\users\asus\documents\visual studio 2010\Projects\WindowsForms_task2\WindowsForms_task2\bin\Debug\WindowsForms_task2.pdb
+c:\users\asus\documents\visual studio 2010\Projects\WindowsForms_task2\WindowsForms_task2\obj\x86\Debug\WindowsForms_task2.exe
+c:\users\asus\documents\visual studio 2010\Projects\WindowsForms_task2\WindowsForms_task2\obj\x86\Debug\WindowsForms_task2.pdb

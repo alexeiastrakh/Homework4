@@ -1,0 +1,7 @@
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\WindowsForms_task3\WindowsForms_task3\obj\x86\Debug\WindowsForms_task3.Form1.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\WindowsForms_task3\WindowsForms_task3\obj\x86\Debug\WindowsForms_task3.Properties.Resources.resources
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\WindowsForms_task3\WindowsForms_task3\obj\x86\Debug\WindowsForms_task3.csproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\WindowsForms_task3\WindowsForms_task3\bin\Debug\WindowsForms_task3.exe
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\WindowsForms_task3\WindowsForms_task3\bin\Debug\WindowsForms_task3.pdb
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\WindowsForms_task3\WindowsForms_task3\obj\x86\Debug\WindowsForms_task3.exe
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\WindowsForms_task3\WindowsForms_task3\obj\x86\Debug\WindowsForms_task3.pdb

@@ -1,0 +1,8 @@
+c:\users\asus\documents\visual studio 2010\Projects\WindowsForms_task1\WindowsForms_task1\bin\Debug\WindowsForms_task1.exe
+c:\users\asus\documents\visual studio 2010\Projects\WindowsForms_task1\WindowsForms_task1\bin\Debug\WindowsForms_task1.pdb
+c:\users\asus\documents\visual studio 2010\Projects\WindowsForms_task1\WindowsForms_task1\obj\x86\Debug\WindowsForms_task1.Form1.resources
+c:\users\asus\documents\visual studio 2010\Projects\WindowsForms_task1\WindowsForms_task1\obj\x86\Debug\WindowsForms_task1.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2010\Projects\WindowsForms_task1\WindowsForms_task1\obj\x86\Debug\WindowsForms_task1.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2010\Projects\WindowsForms_task1\WindowsForms_task1\obj\x86\Debug\WindowsForms_task1.exe
+c:\users\asus\documents\visual studio 2010\Projects\WindowsForms_task1\WindowsForms_task1\obj\x86\Debug\WindowsForms_task1.pdb
+C:\Users\ASUS\Documents\Visual Studio 2010\Projects\WindowsForms_task1\WindowsForms_task1\obj\x86\Debug\WindowsForms_task1.csprojResolveAssemblyReference.cache

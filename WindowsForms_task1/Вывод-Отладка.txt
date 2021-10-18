@@ -1,0 +1,30 @@
+﻿"WindowsForms_task1.vshost.exe" (Управляемый (v4.0.30319)): Загружен "C:\WINDOWS\Microsoft.Net\assembly\GAC_32\mscorlib\v4.0_4.0.0.0__b77a5c561934e089\mscorlib.dll", загрузка символов пропущена. Модуль оптимизирован, включен режим отладки "Только мой код".
+"WindowsForms_task1.vshost.exe" (Управляемый (v4.0.30319)): Загружен "C:\WINDOWS\assembly\GAC_MSIL\Microsoft.VisualStudio.HostingProcess.Utilities\10.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.HostingProcess.Utilities.dll", загрузка символов пропущена. Модуль оптимизирован, включен режим отладки "Только мой код".
+"WindowsForms_task1.vshost.exe" (Управляемый (v4.0.30319)): Загружен "C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Windows.Forms\v4.0_4.0.0.0__b77a5c561934e089\System.Windows.Forms.dll", загрузка символов пропущена. Модуль оптимизирован, включен режим отладки "Только мой код".
+"WindowsForms_task1.vshost.exe" (Управляемый (v4.0.30319)): Загружен "C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System\v4.0_4.0.0.0__b77a5c561934e089\System.dll", загрузка символов пропущена. Модуль оптимизирован, включен режим отладки "Только мой код".
+"WindowsForms_task1.vshost.exe" (Управляемый (v4.0.30319)): Загружен "C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Drawing\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Drawing.dll", загрузка символов пропущена. Модуль оптимизирован, включен режим отладки "Только мой код".
+"WindowsForms_task1.vshost.exe" (Управляемый (v4.0.30319)): Загружен "C:\WINDOWS\assembly\GAC_MSIL\Microsoft.VisualStudio.HostingProcess.Utilities.Sync\10.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.HostingProcess.Utilities.Sync.dll", загрузка символов пропущена. Модуль оптимизирован, включен режим отладки "Только мой код".
+"WindowsForms_task1.vshost.exe" (Управляемый (v4.0.30319)): Загружен "C:\WINDOWS\assembly\GAC_MSIL\Microsoft.VisualStudio.Debugger.Runtime\10.0.0.0__b03f5f7f11d50a3a\Microsoft.VisualStudio.Debugger.Runtime.dll", загрузка символов пропущена. Модуль оптимизирован, включен режим отладки "Только мой код".
+"WindowsForms_task1.vshost.exe" (Управляемый (v4.0.30319)): Загружен "C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\mscorlib.resources\v4.0_4.0.0.0_ru_b77a5c561934e089\mscorlib.resources.dll", загрузка символов пропущена. Модуль оптимизирован, включен режим отладки "Только мой код".
+"WindowsForms_task1.vshost.exe" (Управляемый (v4.0.30319)): Загружен "C:\Users\ASUS\Documents\Visual Studio 2010\Projects\WindowsForms_task1\WindowsForms_task1\bin\Debug\WindowsForms_task1.vshost.exe", загрузка символов пропущена. Модуль оптимизирован, включен режим отладки "Только мой код".
+"WindowsForms_task1.vshost.exe" (Управляемый (v4.0.30319)): Загружен "C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Core\v4.0_4.0.0.0__b77a5c561934e089\System.Core.dll", загрузка символов пропущена. Модуль оптимизирован, включен режим отладки "Только мой код".
+"WindowsForms_task1.vshost.exe" (Управляемый (v4.0.30319)): Загружен "C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Xml.Linq\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.Linq.dll", загрузка символов пропущена. Модуль оптимизирован, включен режим отладки "Только мой код".
+"WindowsForms_task1.vshost.exe" (Управляемый (v4.0.30319)): Загружен "C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Data.DataSetExtensions\v4.0_4.0.0.0__b77a5c561934e089\System.Data.DataSetExtensions.dll", загрузка символов пропущена. Модуль оптимизирован, включен режим отладки "Только мой код".
+"WindowsForms_task1.vshost.exe" (Управляемый (v4.0.30319)): Загружен "C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\Microsoft.CSharp\v4.0_4.0.0.0__b03f5f7f11d50a3a\Microsoft.CSharp.dll", загрузка символов пропущена. Модуль оптимизирован, включен режим отладки "Только мой код".
+"WindowsForms_task1.vshost.exe" (Управляемый (v4.0.30319)): Загружен "C:\WINDOWS\Microsoft.Net\assembly\GAC_32\System.Data\v4.0_4.0.0.0__b77a5c561934e089\System.Data.dll", загрузка символов пропущена. Модуль оптимизирован, включен режим отладки "Только мой код".
+"WindowsForms_task1.vshost.exe" (Управляемый (v4.0.30319)): Загружен "C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Deployment\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Deployment.dll", загрузка символов пропущена. Модуль оптимизирован, включен режим отладки "Только мой код".
+"WindowsForms_task1.vshost.exe" (Управляемый (v4.0.30319)): Загружен "C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Xml\v4.0_4.0.0.0__b77a5c561934e089\System.Xml.dll", загрузка символов пропущена. Модуль оптимизирован, включен режим отладки "Только мой код".
+Поток 'vshost.LoadReference' (0x1a2c) завершился с кодом 0 (0x0).
+"WindowsForms_task1.vshost.exe" (Управляемый (v4.0.30319)): Загружен "c:\users\asus\documents\visual studio 2010\Projects\WindowsForms_task1\WindowsForms_task1\bin\Debug\WindowsForms_task1.exe", Cимволы загружены.
+"WindowsForms_task1.vshost.exe" (Управляемый (v4.0.30319)): Загружен "C:\WINDOWS\Microsoft.Net\assembly\GAC_MSIL\System.Configuration\v4.0_4.0.0.0__b03f5f7f11d50a3a\System.Configuration.dll", загрузка символов пропущена. Модуль оптимизирован, включен режим отладки "Только мой код".
+Первый этап обработки исключения типа "System.FormatException" в приложении mscorlib.dll
+Первый этап обработки исключения типа "System.Exception" в приложении WindowsForms_task1.exe
+Первый этап обработки исключения типа "System.Exception" в приложении WindowsForms_task1.exe
+Первый этап обработки исключения типа "System.FormatException" в приложении mscorlib.dll
+Первый этап обработки исключения типа "System.FormatException" в приложении mscorlib.dll
+Первый этап обработки исключения типа "System.FormatException" в приложении mscorlib.dll
+Первый этап обработки исключения типа "System.FormatException" в приложении mscorlib.dll
+Поток 'vshost.RunParkingWindow' (0x2c44) завершился с кодом 0 (0x0).
+Поток '<Без имени>' (0x2774) завершился с кодом 0 (0x0).
+Программа "[15896] WindowsForms_task1.vshost.exe: Трассировка программы" завершилась с кодом 0 (0x0).
+Программа "[15896] WindowsForms_task1.vshost.exe: Управляемый (v4.0.30319)" завершилась с кодом 0 (0x0).
